@@ -18,10 +18,11 @@ git push -u origin main</pre>
 <pre>git remote add origin https://github.com/Eng-Biplob/test.git
 git branch -M main
 git push -u origin main</pre>
-    </div>
+
 </div>
 <hr>
 # Git-Cheat-Sheet
+<br>
 <a href="https://github.com/Eng-Biplob/Git-Cheat-Sheet/blob/main/git-cheat-sheet.docx?raw=true" target="_blank">View</a>
 <br>
 <a href="https://github.com/Eng-Biplob/Git-Cheat-Sheet/blob/main/git-cheat-sheet.pdf" target="_blank">View PDF.</a>
