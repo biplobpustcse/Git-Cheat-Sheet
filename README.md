@@ -9,11 +9,10 @@ git commit -m &quot;first commit&quot;
 git branch -M main
 git remote add origin https://github.com/Eng-Biplob/test.git
 git push -u origin main</pre>
-    </div>
 </div>
 <div>
     <h3>&hellip;or push an existing repository from the command line</h3>
-    <div>
+<div>
         
 <pre>git remote add origin https://github.com/Eng-Biplob/test.git
 git branch -M main
