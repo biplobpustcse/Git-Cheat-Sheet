@@ -1,3 +1,14 @@
+1. Basic Setup
+git config: Set global or local configuration.
+
+`
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+`
+
+
+
+
 <div>
     <h3>&hellip;or create a new repository on the command line</h3>
     <div>
